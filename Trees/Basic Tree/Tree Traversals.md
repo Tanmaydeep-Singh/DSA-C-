@@ -5,7 +5,7 @@
 |Preorder | Node | Left Subtree | Right Subtree |
 | -- | -- | -- | --|
 |Inorder | Left Subtree | Node | Right Subtree|
-|Postorder | Right Subtree | Node | Left Subtree|
+|Postorder | Left Subtree | Right Subtree | Node|
 |Levelorder | Level by level|||
 
 TRICK:

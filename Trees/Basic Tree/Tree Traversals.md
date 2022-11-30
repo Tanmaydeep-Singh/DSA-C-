@@ -1,9 +1,8 @@
 # Tree Traversals:
 
-  
-
+| |  | | |  
+| -- | -- | -- | --|  
 |Preorder | Node | Left Subtree | Right Subtree |
-| -- | -- | -- | --|
 |Inorder | Left Subtree | Node | Right Subtree|
 |Postorder | Left Subtree | Right Subtree | Node|
 |Levelorder | Level by level|||
